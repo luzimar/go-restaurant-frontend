@@ -28,7 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Typescript](https://www.typescriptlang.org/)
-- [Json Server](https://github.com/typicode/json-server)
 
 ## :fire: Dependências
 
