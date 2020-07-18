@@ -2,9 +2,6 @@
     <img alt="logo" title="logo" src=".readme/logo.PNG" />
 </h1>
 
-<h4 align="center">
-  Go Restaurant
-</h4>
 <p align="center">
   <a href="#metro-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#fire-dependências">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
